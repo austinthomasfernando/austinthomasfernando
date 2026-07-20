@@ -22,11 +22,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=austinthomasfernando&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinthomasfernando&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=austinthomasfernando&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=austinthomasfernando&layout=compact&theme=tokyonight" />
+</p>
 </p>
 ## 🔥 GitHub Streak
 
@@ -42,11 +40,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=austinthomasfernando&theme=tokyo-night"/>
 
 </p>
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=austinthomasfernando&theme=tokyonight"/>
 
 </p>
 <p align="center">
